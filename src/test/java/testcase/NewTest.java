@@ -23,5 +23,7 @@ public class NewTest {
 	  
 	  SearchHotel obj1 = new SearchHotel(driver);
 	  obj1.Location("New York");
+
+	  System.out.println("Pushing the code in jenkins");
   }
 }
